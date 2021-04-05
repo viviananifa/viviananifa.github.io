@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://viviananifa.github.io</id>
     <title>VA的记事簿</title>
-    <updated>2021-04-05T08:47:51.405Z</updated>
+    <updated>2021-04-05T10:21:41.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://viviananifa.github.io"/>
     <link rel="self" href="https://viviananifa.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://viviananifa.github.io/images/avatar.png</logo>
     <icon>https://viviananifa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, VA的记事簿</rights>
+    <entry>
+        <title type="html"><![CDATA[First]]></title>
+        <id>https://viviananifa.github.io/post/first/</id>
+        <link href="https://viviananifa.github.io/post/first/">
+        </link>
+        <updated>2021-04-05T10:18:04.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>大概玩耍是人类的天性，亦或是我这个人就是喜欢鼓捣些奇奇怪怪的东西
+
+
+我不由得想起自己还小的的时候</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://viviananifa.github.io/post/about/</id>
