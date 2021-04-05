@@ -2110,12 +2110,12 @@ pre > span.copy-code:hover {
     .node-title::before {
       background-color: #555;
     }a {
-      color: #ff6b6b;
+      color: #555;
     }
     
     .next-md-body a, .friends-box a  {
-      color: #ff6b6b;
-      border-bottom: 1px solid #ff6b6b;
+      color: #555;
+      border-bottom: 1px solid #555;
     }a:hover {
       color: #222;
     }
@@ -2187,13 +2187,13 @@ pre > span.copy-code:hover {
       border-radius: 15px;
     }
       .site-meta {
-        background: #ffa8a8 !important;
+        background: #222 !important;
       }
       .head-top-line {
-        background: #ffa8a8 !important;
+        background: #222 !important;
       }
     .brand {
-      background: #ffa8a899;
+      background: #22222299;
     }
     .main-title, .brand {
       color: #f8f9fa !important;
