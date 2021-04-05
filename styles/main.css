@@ -2094,21 +2094,21 @@ pre > span.copy-code:hover {
       border-bottom-color: #555;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #eeeeeecc;
+      background: #eeeeee99;
     }h1, h2, h3, h4, h5, h6 {
-      color: #555;
+      color: #f8f9fa;
     }
     
     .archive-timeline-title::before {
-      background-color: #555;
+      background-color: #f8f9fa;
     }
     
     .post-title-link::before {
-      background-color: #555;
+      background-color: #f8f9fa;
     }
     
     .node-title::before {
-      background-color: #555;
+      background-color: #f8f9fa;
     }a {
       color: #555;
     }
@@ -2134,15 +2134,15 @@ pre > span.copy-code:hover {
       border-bottom-color: #222;
     }
       .nav-item a {
-        color:  #555;
+        color:  #212529;
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #f9f9f9cc;
+      background: #f9f9f999;
     }
 
     .nav-item:hover {
-      background: #f9f9f9cc;
+      background: #f9f9f999;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2178,7 +2178,7 @@ pre > span.copy-code:hover {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #ffffffcc;
+      background-color: #ffffff99;
     }
     .gemini .blog-header, .gemini .sidebar-wrapper, .gemini .article-wrapper, .gemini .post, .gemini .page, .gemini .section, .gemini .section-box, .gemini .sidebar-box, .gemini .friends-section {
       border-radius: 15px;
@@ -2187,19 +2187,19 @@ pre > span.copy-code:hover {
       border-radius: 15px;
     }
       .site-meta {
-        background: #000 !important;
+        background: #ffa8a8 !important;
       }
       .head-top-line {
-        background: #000 !important;
+        background: #ffa8a8 !important;
       }
     .brand {
-      background: #000000cc;
+      background: #f8f9fa99;
     }
     .main-title, .brand {
       color: #FFF !important;
     }
     .mist .site-title i {
-      background: #FFFFFFcc;
+      background: #FFFFFF99;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
