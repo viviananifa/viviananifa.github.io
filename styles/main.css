@@ -2138,11 +2138,11 @@ pre > span.copy-code:hover {
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #f9f9f999;
+      background: #f8f9fa99;
     }
 
     .nav-item:hover {
-      background: #f9f9f999;
+      background: #f8f9fa99;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2196,10 +2196,10 @@ pre > span.copy-code:hover {
       background: #22222299;
     }
     .main-title, .brand {
-      color: #f8f9fa !important;
+      color: #fff5f5 !important;
     }
     .mist .site-title i {
-      background: #f8f9fa99;
+      background: #fff5f599;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
