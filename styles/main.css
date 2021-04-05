@@ -2096,26 +2096,26 @@ pre > span.copy-code:hover {
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
       background: #eeeeee99;
     }h1, h2, h3, h4, h5, h6 {
-      color: #f8f9fa;
+      color: #555;
     }
     
     .archive-timeline-title::before {
-      background-color: #f8f9fa;
+      background-color: #555;
     }
     
     .post-title-link::before {
-      background-color: #f8f9fa;
+      background-color: #555;
     }
     
     .node-title::before {
-      background-color: #f8f9fa;
+      background-color: #555;
     }a {
-      color: #555;
+      color: #ff6b6b;
     }
     
     .next-md-body a, .friends-box a  {
-      color: #555;
-      border-bottom: 1px solid #555;
+      color: #ff6b6b;
+      border-bottom: 1px solid #ff6b6b;
     }a:hover {
       color: #222;
     }
@@ -2193,13 +2193,13 @@ pre > span.copy-code:hover {
         background: #ffa8a8 !important;
       }
     .brand {
-      background: #f8f9fa99;
+      background: #ffa8a899;
     }
     .main-title, .brand {
-      color: #FFF !important;
+      color: #f8f9fa !important;
     }
     .mist .site-title i {
-      background: #FFFFFF99;
+      background: #f8f9fa99;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
