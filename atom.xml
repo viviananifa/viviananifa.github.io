@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://viviananifa.github.io</id>
     <title>VA的记事簿</title>
-    <updated>2021-04-05T10:36:08.152Z</updated>
+    <updated>2022-03-06T04:56:32.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://viviananifa.github.io"/>
     <link rel="self" href="https://viviananifa.github.io/atom.xml"/>
     <subtitle>不以物喜，不以己悲。</subtitle>
     <logo>https://viviananifa.github.io/images/avatar.png</logo>
     <icon>https://viviananifa.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, VA的记事簿</rights>
+    <rights>All rights reserved 2022, VA的记事簿</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://viviananifa.github.io/post/about/</id>
