@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://viviananifa.github.io</id>
     <title>VA的记事簿</title>
-    <updated>2022-03-06T12:58:43.709Z</updated>
+    <updated>2022-03-06T13:45:37.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://viviananifa.github.io"/>
     <link rel="self" href="https://viviananifa.github.io/atom.xml"/>
@@ -19,7 +19,29 @@
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的个人小站！</p>
 </blockquote>
+<figure data-type="image" tabindex="1"><img src="https://viviananifa.github.io/post-images/1646574328742.jpg" alt="" loading="lazy"></figure>
 <h2 id="关于站主">🌠 关于站主</h2>
+<p>你好！欢迎来到我的个人小站！<br>
+我的正式名字是<strong>Vivian Anifa</strong>，<br>
+一般在进行杂谈、考证感想类、整理类等等创作时最常使用 **温询子（Junko Wen）**这个名字，<br>
+在绘画等等原创创作时候使用 <strong>香早Vaniha</strong> 这个名字。<br>
+等等。（笑）</p>
+<p>一般称呼我<strong>VA</strong>或者<strong>询子</strong>或者<strong>Junko</strong>都可以！</p>
+<h2 id="个人简介">🌠 个人简介</h2>
+<ul>
+<li>
+<p>几乎对什么都感兴趣因此等于对什么都不感兴趣。只对自己觉得有趣的东西感兴趣。很容易三分钟热度。<br>
+目前高强度集中于FGO斋藤一相关中。</p>
+</li>
+<li>
+<p>能力：<br>
+黑桐谷歌（较为自信的资料收集能力）<br>
+工地日语（勉强中，能读懂部分理解大致的那种）<br>
+绘画（可以画一点点生草图）<br>
+其他的……暂时想不出来。</p>
+<p>总之感谢你看到这里！!</p>
+</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
